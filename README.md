@@ -6,7 +6,7 @@ I was a fan of Gum Joe's work on 'One Dark Material' but wanted a few more tweak
 
 ## Example
 
-![one-dark-syntax](https://raw.githubusercontent.com/Gum-Joe/one-dark-material-syntax/master/example/example.png)
+![one-dark-syntax](https://github.com/locomotivedigital/railscoder-syntax/blob/main/example/example.png)
 
 ### Installation
 ```bash
