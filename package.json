@@ -10,7 +10,7 @@
     "material",
     "material ui"
   ],
-  "repository": "https://github.com/Gum-Joe/one-dark-material-syntax",
+  "repository": "https://github.com/locomotivedigital/railscoder-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
