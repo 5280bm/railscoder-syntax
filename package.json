@@ -1,7 +1,7 @@
 {
   "name": "railscoder-syntax",
   "theme": "syntax",
-  "version": "1.0.3",
+  "version": "0.1.0",
   "description": "A fork of Gum Joe's 'One dark matieral syntax theme', then edited for Railscoder preferences.",
   "keywords": [
     "dark",
