@@ -10,5 +10,5 @@ I was a fan of Gum Joe's work on 'One Dark Material' but wanted a few more tweak
 
 ### Installation
 ```bash
-coming soon
+apm install railscoder-syntax
 ```
